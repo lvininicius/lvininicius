@@ -3,4 +3,6 @@
 
 ### 🎒 Graduando em Engenharia de Software na FIAP
 ### 🐚 Experiéncia em Shell Script
-### 🐧 Certificação - LPI ESSENTIALS ID
+### 🐧 Certificação - LPIC ESSENTIALS ID
+### 🐧 Certificação - LPIC 1
+
